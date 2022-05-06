@@ -1,4 +1,4 @@
-# java_exercise_polymorphism-_and_inheritance
+
 
 A company has its own and outsourced employees.
 For each employee, you want to record name, hours worked and hourly rate. outsourced employees have an additional expense.
